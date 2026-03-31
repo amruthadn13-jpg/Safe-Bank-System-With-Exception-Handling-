@@ -1,6 +1,6 @@
 # Safe-Bank-System-With-Exception-Handling-
 
-ay 25 – Safe Bank System (Exception Handling)
+Day 25 – Safe Bank System (Exception Handling)
 🏦 Overview
 
 A Bank Account System built using OOP with added exception handling to prevent crashes and handle invalid user inputs.
